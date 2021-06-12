@@ -3,3 +3,5 @@ This is what Bob and Carol did on Carol's computer when working on the fist feat
 This is what Bob and Carol did on Bob's computer 
 =======
 This is what Ted and Alice did on Ted's computer when working on the first feature
+
+This is Alice and Carol working on Alice's computer.
