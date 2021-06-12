@@ -18,8 +18,12 @@ This is Ted and Alice on Teds computer part 2
 
 This is what Alice and Bob did on Alice's computer when working on the second feature
 
+
 This is Alice and Bob working on Alice's computer on second feature
 
 This is Ted and Carol on Ted's computer 2
 
+
 This is what Bob and Carol did on Carol's computer on feature 3
+
+
