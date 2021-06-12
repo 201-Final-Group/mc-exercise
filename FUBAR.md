@@ -30,6 +30,8 @@ Bob and Carol on Bob's computer.
 
 This is what Bob and Carol did on Carol's computer on feature 3
 
+This is Ted and Carol on Ted's computer 3
+
 
 
 
