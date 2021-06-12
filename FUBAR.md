@@ -4,4 +4,8 @@ This is what Bob and Carol did on Bob's computer
 =======
 This is what Ted and Alice did on Ted's computer when working on the first feature
 
+
+Ted and Carol working on Ted's computer.
+
 This is Alice and Carol working on Alice's computer.
+
